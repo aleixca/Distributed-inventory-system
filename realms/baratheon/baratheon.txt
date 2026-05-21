@@ -1,0 +1,10 @@
+Baratheon
+realms/baratheon
+3
+192.168.1.4
+8821
+--- ROUTES ---
+Arryn 192.168.1.3 8820
+Cole 192.168.1.4 8822
+Dustin 192.168.1.5 8823
+DEFAULT 192.168.1.5 8823

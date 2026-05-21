@@ -1,0 +1,9 @@
+Dustin
+realms/dustin
+1
+192.168.1.5
+8823
+--- ROUTES ---
+Baratheon 192.168.1.4 8821
+Greyjoy 192.168.1.5 8824
+
